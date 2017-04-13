@@ -1,5 +1,10 @@
+*{outline: 1px solid red;}
 
-
+.bigger {
+  line-height: 4.2em;
+  text-align: center;
+  background-color: red;
+}
 
 #bigText{font-family: 'Dancing Script', cursive; font-size: 170px;}
 #mainImage{width:100%;}
