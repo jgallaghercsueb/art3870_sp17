@@ -5,12 +5,25 @@ section {
   color: white;
 }
 
+.row {
+
+}
+
 .portfolio {
   float: left;
 }
 
-.author {
+.author, .work {
   text-align: center;
+  background-color: #7FFFD4;
+}
+
+.work {
+  height: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+
 }
 
 .link {
