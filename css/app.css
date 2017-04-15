@@ -1,6 +1,19 @@
 *{outline: 1px solid red;}
 
-.bigger {
+section {
+  background-color: #7FFFD4;
+  color: white;
+}
+
+.portfolio {
+  float: left;
+}
+
+.author {
+  text-align: center;
+}
+
+.link {
   line-height: 4.2em;
   text-align: center;
   background-color: red;
