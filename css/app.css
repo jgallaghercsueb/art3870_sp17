@@ -13,7 +13,7 @@ section {
   background-color: #7FFFD4;
 }
 
-.author {
+.author, .work_heading, .about_header {
   margin-bottom: 15px;
 }
 
@@ -26,10 +26,20 @@ section {
   background-color: #7FFFD4;
 }
 
-.work {
+.about, .about_cell {
+  text-align: center;
+  background-color: #7FFFD4;
+}
+
+.work, .gallery {
   height: 100px;
   margin-top: 100px;
   margin-bottom: 50px;
+}
+
+.port, .gallery, .work_heading, .header3 {
+  text-align: center;
+  background-color: sandybrown;
 }
 
 .heading {
