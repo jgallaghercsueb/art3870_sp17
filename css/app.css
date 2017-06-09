@@ -1,6 +1,5 @@
-*{outline: 1px solid red;}
 
-p, h1, h5, div {
+p, h1, h5, h3, div {
   font-family: 'Oswald', sans-serif;
   color: teal;
 }
@@ -37,6 +36,8 @@ section {
 }
 
 .port, .gallery, .work_heading, .header3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   background-color: sandybrown;
 }
@@ -44,6 +45,10 @@ section {
 .heading {
   margin-top: 50px;
   text-align: center;
+}
+
+.contact {
+  margin: 150px;
 }
 
 .link {
